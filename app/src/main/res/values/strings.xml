@@ -7,4 +7,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_mlambo_enterprises">Welcome to Mlambo Enterprises</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="code_number">Code Number</string>
 </resources>
