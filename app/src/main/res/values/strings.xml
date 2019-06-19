@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Mlambolivestock</string>
     <string name="title_activity_home">Home</string>
-    <string name="title_home" tools:ignore="ExtraTranslation">Home</string>
+    <string name="title_stock" tools:ignore="ExtraTranslation">Stock</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
 
@@ -10,4 +10,7 @@
     <string name="welcome_to_mlambo_enterprises">Welcome to Mlambo Enterprises</string>
     <string name="phone_number">Phone Number</string>
     <string name="code_number">Code Number</string>
+    <string name="todo">TODO</string>
+    <string name="stock">Stock</string>
+    <string name="amount">Amount</string>
 </resources>

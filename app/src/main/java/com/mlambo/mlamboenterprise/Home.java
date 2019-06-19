@@ -9,7 +9,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.annotation.NonNull;
 import android.view.MenuItem;
 import android.widget.TextView;
-
 import com.mlambo.mlamboenterprise.Auth.PhoneAuth;
 import com.mlambo.mlamboenterprise.Fragments.DashboardFragment;
 import com.mlambo.mlamboenterprise.Fragments.HomeFragmant;
@@ -67,6 +66,6 @@ public class Home extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
 
-       // startActivity(new Intent(this, PhoneAuth.class));
+        //startActivity(new Intent(this, PhoneAuth.class));
     }
 }
