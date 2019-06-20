@@ -73,6 +73,7 @@
         <android.support.v7.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/card1"
             android:layout_margin="5dp"
             app:cardElevation="4dp">
 
@@ -146,12 +147,9 @@
             </LinearLayout>
 
         </android.support.v7.widget.CardView>
-
         </RelativeLayout>
         </ScrollView>
     </android.support.v4.widget.NestedScrollView>
-
-
 
 
 </android.support.design.widget.CoordinatorLayout>

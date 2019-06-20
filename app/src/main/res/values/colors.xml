@@ -8,4 +8,7 @@
     <color name="text">#000000</color>
     <color name="card">#E9E9E9</color>
     <color name="white">#FFFFFF</color>
+    <color name="fui_buttonShadow">#64BEBEBE</color>
+    <color name="fui_transparent">#50202020</color>
+    <color name="line">#979797</color>
 </resources>

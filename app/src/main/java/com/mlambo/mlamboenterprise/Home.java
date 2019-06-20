@@ -66,6 +66,6 @@ public class Home extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
 
-        //startActivity(new Intent(this, PhoneAuth.class));
+        startActivity(new Intent(this, Walkthrough.class));
     }
 }
