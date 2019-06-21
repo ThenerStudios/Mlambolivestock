@@ -13,4 +13,5 @@
     <string name="todo">TODO</string>
     <string name="stock">Stock</string>
     <string name="amount">Amount</string>
+    <string name="add_new_stock">Add New stock</string>
 </resources>

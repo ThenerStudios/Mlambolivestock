@@ -24,15 +24,15 @@ public class SliderAdapter extends PagerAdapter
 
     public int[] slider_images = {
 
-            R.drawable.group_10,
             R.drawable.group_11,
+            R.drawable.group_10,
             R.drawable.group_12
     };
 
     public String[] slider_headings = {
-            "SEARCH",
-            "BUY",
-            "DELIVERED"
+            "WE SUPPLY",
+            "YOU BUY",
+            "WE DELIVERED"
     };
 
     public String[] slider_details = {
